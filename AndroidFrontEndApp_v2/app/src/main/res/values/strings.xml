@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidFrontEndApp</string>
+    <string name="music">Music</string>
+    <string name="home">Home</string>
+    <string name="camera">Camera</string>
+    <string name="communicate">Communicate</string>
+    <string name="tts_engine">Tts engine</string>
+    <string name="stt_engine">Stt engine</string>
+    <string name="android_proektna">Android proektna</string>
+    <string name="stefan_kjoropanovski_gmail_com">stefan.kjoropanovski@gmail.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="create_a_name">Create a name</string>
+    <string name="das">Like column</string>
+    <string name="var">\"Likes: \"</string>
+</resources>
